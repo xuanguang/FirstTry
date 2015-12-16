@@ -1,4 +1,6 @@
 //http://www.codeproject.com/Articles/15248/Globalization-of-Windows-Applications-in-Minute
+//try
+
 
 using System;
 using System.Drawing;
