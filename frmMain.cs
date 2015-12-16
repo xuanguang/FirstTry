@@ -1,5 +1,6 @@
 //http://www.codeproject.com/Articles/15248/Globalization-of-Windows-Applications-in-Minute
 //try
+//Modify again
 
 
 using System;
